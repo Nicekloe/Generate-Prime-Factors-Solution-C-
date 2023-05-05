@@ -1,4 +1,4 @@
-# Ch04Ex02PrimeFactorsApp
+# PrimeFactorsApp
 
 C# Project including a console app, a library and unit tests for generating prime factors of a given number between 1 and 1000.
 
